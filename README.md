@@ -1,3 +1,5 @@
+
+**This plugin is made for the Tidy-vanilla.net network its not configuarable per config!**
  
  <details>
      <summary><h3 style="display: inline;">Commands</h3></summary>
