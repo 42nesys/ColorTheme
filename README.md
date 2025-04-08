@@ -1,6 +1,3 @@
-@@ -18,48 +18,55 @@
- 
- <hr>
  
  <details>
      <summary><h3 style="display: inline;">Commands</h3></summary>
@@ -12,4 +9,3 @@
  
  </details>
  
- <hr>
