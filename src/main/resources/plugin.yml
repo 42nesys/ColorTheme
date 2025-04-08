@@ -1,0 +1,7 @@
+name: ColoredPlaceholder
+version: '1.0'
+main: pashmash.coloredPlaceholder.ColoredPlaceholder
+api-version: '1.21'
+depend: [PlaceholderAPI]
+commands:
+  color:
